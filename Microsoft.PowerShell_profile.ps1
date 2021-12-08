@@ -49,5 +49,3 @@ Set-Alias nvmt UseTeams
 if ($env:TERM_PROGRAM -eq "vscode") {
   Set-PSReadLineOption -EditMode Emacs
 }
-
-$env:vstsPat = "adkpzbfggoxbs5nfuk4cuasw67f4ihsa2brmmck6nk5ehz2d7o7a"
